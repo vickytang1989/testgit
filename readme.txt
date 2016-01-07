@@ -4,3 +4,4 @@ branch
 =======
 master
 >>>>>>> master
+branch2
